@@ -1,28 +1,23 @@
 import ReactDOM from "react-dom";
 
-const data = {
-  
-}
+import App from "./components/App";
 
-const painting = (
-  <div>
-    <img src="" alt="" width='480' />
-    <h2></h2>
-    <p>
-      Автор:<a href=''></a>
-    </p>
-    <p>Цена: кредитов</p>
-    <p>Доступность :заканчивается или есть в наличии</p>
- <button type="button">Добавить в корзину</button>
-  </div>
-);
+
+
+ReactDOM.render(
+<App/>,
+ document.querySelector('#root'))
 
 
 
 
 
-
-
+/* <Painting 
+url={painting.url}
+ title={painting.title}
+ authorName={painting.author.tag}
+ price={painting.price}
+ /> */
 
 
 

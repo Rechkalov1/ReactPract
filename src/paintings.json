@@ -1,0 +1,66 @@
+
+[
+    {
+        "id": "id-1",
+        "url": "https://placeimg.com/300/200/any?id=1",
+        "title":"Телевизор",
+        "price" :500,
+        "author" :{
+            "tag" :2022,
+            "color" :"black"
+            
+        } ,
+        "quantity": 10
+    },
+    {
+        "id": "id-1",
+        "url": "https://placeimg.com/300/200/any?id=1",
+        "title":"Телевизор",
+        "price" :500,
+        "author" :{
+            "tag" :2022,
+            "color" :"black"
+            
+        } ,
+        "quantity": 10
+    },
+    {
+        "id": "id-2",
+        "url": "https://placeimg.com/300/200/any?id=2",
+        "title":"Видик",
+        "price" :300,
+        "author" :{
+            "tag" :2022,
+            "color" :"black"
+            
+        } ,
+        "quantity": 10
+    },
+    {
+        "id": "id-3",
+        "url": "https://placeimg.com/300/200/any?id=3",
+        "title":"Кофта",
+        "price" :600,
+        "author" :{
+            "tag" :2022,
+            "color" :"black"
+            
+        } ,
+        "quantity": 10
+    },
+    {
+        "id": "id-4",
+        "url": "https://placeimg.com/300/200/any?id=4",
+        "title":"Футболка",
+        "price" :900,
+        "author" :{
+            "tag" :2022,
+            "color" :"black"
+            
+        } ,
+        "quantity": 10
+    }
+    
+    
+    
+]
